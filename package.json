@@ -1,9 +1,10 @@
 {
+  "homepage": "http://ErinyAnis.github.io/TimerChallenge-react/",
   "name": "refs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://erinyanis.github.io/TimerChallenge-react/",
+ 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
